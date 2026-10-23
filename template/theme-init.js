@@ -1,0 +1,1 @@
+<script>try{var t=localStorage.getItem("cih.theme");t=t&&JSON.parse(t);if(t==="light"||t==="dark")document.documentElement.setAttribute("data-theme",t)}catch(e){}</script>
